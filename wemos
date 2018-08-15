@@ -1,0 +1,6 @@
+First check that wemos is working 
+
+upload the led server code ledserver.ino to the wemos and do the same as instructed in the readme.md file
+on/off the inbuilt led of wemos. 
+
+if it doesn't working properly go for troubleshoot. 

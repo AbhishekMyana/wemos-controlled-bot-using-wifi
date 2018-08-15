@@ -8,7 +8,8 @@ steps to follow:
 2. compile and upload the wemoscontrolledbot.ino file in arduino.(don't forget to pass your ssid* and password*)
 3. then do the connection with wemos , motor driver module and motors..(for more refer below).
 4. connect the wemos and an android device to the same network.
-5. now open serial monitor and copy the server add to favourite browser.Now see what happens
+5. now open serial monitor and copy the server add to favourite browser.
+6. now you will see the page which is in the screenshot.
 6. if you don't get any page then refesh the page and press reset button .
 7. your bot now will move prorerly. wholla!!!
 
